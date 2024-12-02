@@ -1,0 +1,17 @@
+h1{text-align: center;
+margin: 40px;
+color: red;
+}
+* {
+    border-collapse: collapse;
+  }
+  table {
+    width: 20%;
+    margin-top: 1rem;
+  }
+  td,
+  th {
+    border: 1px solid black;
+    text-align: center;
+  }
+  
